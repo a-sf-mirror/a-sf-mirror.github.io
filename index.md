@@ -15,7 +15,7 @@ On the other hand, GitHub is a saner and healthier alternative for hosting these
 * [kiki](kiki): kiki the nanobot is a 3-D puzzle game. It is basically a mixture of the games Sokoban and Kula-World. [[repo]](https://github.com/a-sf-mirror/kiki)
 * [gusanos](gusanos): Project Gusanos is a 2D worms like game. [[repo]](https://github.com/a-sf-mirror/gusanos)
 
-This list is open to expansion: if you feel a project lacks a maintainership that could push the project elsewhere if sourceforge dies, you can drop a line to xxx@xxx so we clone it or also [clone the project yourself](#how-to-clone-a-project-yourself).
+This list is open to expansion: if you feel a project lacks a maintainership that could push the project elsewhere if sourceforge dies, you can drop a line to `<sfmirror AT indigo DOT re>` so we clone it or also [clone the project yourself](#how-to-clone-a-project-yourself).
 
 If your project was added and you don't want that, you can also drop us a line.
 
