@@ -1,6 +1,4 @@
-body {
-	
-}
+/* CSS inspired by Zilla Two, by Jeremy Duenas http://zilladesigns.net/ */
 
 .page-content {
 	background: #E8E8E8;
@@ -10,9 +8,10 @@ body {
 	padding: 1em;
 }
 
-a {
+a, h1, h2, h3, h4, h5, h6 {
 	color:#CC0000;
 	text-decoration:none;
+	font-weight: normal;
 }
 
 a:hover {
