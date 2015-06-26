@@ -10,18 +10,20 @@ SourceForge is dying. As it's not anymore the most popular platform of choice fo
 A number of projects have moved away from sourceforge after this. However, a lot of good projects may have lost their maintainer, and these projects may risk being lost if SourceForge dies or purges projects it judges "non-profitable".
 On the other hand, GitHub is a saner and healthier alternative for hosting these projects.
 
-*ASFMirror* is a collection of mirrors of such projects. Currently, the mirrored projects are:
+# What we do
+
+*ASFMirror* is a collection of mirrors of such projects, on GitHub. Currently, the mirrored projects are:
 
 * [kiki](kiki): kiki the nanobot is a 3-D puzzle game. It is basically a mixture of the games Sokoban and Kula-World. [[repo]](https://github.com/a-sf-mirror/kiki)
 * [gusanos](gusanos): Project Gusanos is a 2D worms like game. [[repo]](https://github.com/a-sf-mirror/gusanos)
 
-This list is open to expansion: if you feel a project lacks a maintainership that could push the project elsewhere if sourceforge dies, you can drop a line to `<sfmirror AT indigo DOT re>` so we clone it or also [clone the project yourself](#how-to-clone-a-project-yourself).
+**This list is open to expansion**: if you feel a project lacks a maintainership that could push the project elsewhere if sourceforge dies, you can send an email to `<sfmirror AT indigo DOT re>` so we just clone it here, or you can also [clone the project yourself](#how-to-clone-a-project-yourself) easily.
 
-If your project was added and you don't want that, you can also drop us a line.
+If your project was added here and you don't want that, you can also drop us a line.
 
-# What is mirrored?
+# What content is mirrored of each project?
 
-Currently, for each cloned project, we mirror the CVS repository and the website.
+Currently, for each cloned project, we mirror its CVS repository and its website.
 
 ## CVS
 
@@ -29,7 +31,8 @@ The CVS repository of the project's code is converted to a git repository. There
 
 ## Website
 
-The website of the project, if hosted on sourceforge (url in the form `http://<project name>.sf.net/`) is mirrored, while trying to do the smallest notifications possible for it to work. The modifications are automated, and may contain errors. The website mirror is done to a branch (named "gh-pages") of the git repo.
+The website of the project, if hosted on sourceforge (url in the form `http://<project name>.sf.net/`) is mirrored. All pages are statically downloaded, meaning if the website was dynamic, like a wiki, or blog, we will only get a fixed snapshot. This is because we don't have access to the site source or its database.
+We try to do the smallest notifications possible for it to work (a few links are converted). The modifications are automated, and may contain errors. The website mirror is done to a git branch (named "gh-pages") of the project repo.
 
 # How to clone a project yourself?
 
