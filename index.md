@@ -23,11 +23,11 @@ If your project was added here and you don't want that, you can also drop us a l
 
 # What content is mirrored of each project?
 
-Currently, for each cloned project, we mirror its CVS repository and its website.
+Currently, for each cloned project, we mirror its CVS (or SVN) repository and its website.
 
-## CVS
+## CVS/SVN
 
-The CVS repository of the project's code is converted to a git repository. There may be issues with CVS branches while mirroring.
+The CVS/SVN repository of the project's code is converted to a git repository. If using CVS, There may be issues with CVS branches while mirroring.
 
 ## Website
 
