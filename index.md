@@ -16,6 +16,7 @@ On the other hand, GitHub is a saner and healthier alternative for hosting these
 
 * [kiki](kiki): kiki the nanobot is a 3-D puzzle game. It is basically a mixture of the games Sokoban and Kula-World. [[repo]](https://github.com/a-sf-mirror/kiki)
 * [gusanos](gusanos): Project Gusanos is a 2D worms like game. [[repo]](https://github.com/a-sf-mirror/gusanos)
+* [phlipple (no site)](https://github.com/a-sf-mirror/phlipple): Phlipple is a unique puzzle game. The goal of every level is to reduce a 3D shape to a single square. Elimination of squares is done by flipping edges around just like in a cardboard box. [[repo]](https://github.com/a-sf-mirror/phlipple)
 
 **This list is open to expansion**: if you feel a project lacks a maintainership that could push the project elsewhere if sourceforge dies, you can send an email to `<sfmirror AT indigo DOT re>` so we just clone it here, or you can also [clone the project yourself](#how-to-clone-a-project-yourself) easily.
 
@@ -36,7 +37,7 @@ We try to do the smallest notifications possible for it to work (a few links are
 
 # How to clone a project yourself?
 
-[This is the script we use to convert CVS to git.](sf-cvs-to-git.zsh) It relies on "git-cvsimport".
+[This is the script we use to convert CVS to git.](sf-repo-to-git.zsh) It relies on "git-cvsimport" or "git-svn".
 
-[This is the script we use to import the project site to gh-pages branch.](sf-site-to-gh.zsh)
+[This is the script we use to import the project site to gh-pages branch.](sf-site-to-gh.zsh) It uses wget.
 
