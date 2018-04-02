@@ -17,6 +17,11 @@ On the other hand, GitHub is a saner and healthier alternative for hosting these
 * [kiki](kiki): kiki the nanobot is a 3-D puzzle game. It is basically a mixture of the games Sokoban and Kula-World. [[repo]](https://github.com/a-sf-mirror/kiki)
 * [gusanos](gusanos): Project Gusanos is a 2D worms like game. [[repo]](https://github.com/a-sf-mirror/gusanos)
 * [phlipple (no site)](https://github.com/a-sf-mirror/phlipple): Phlipple is a unique puzzle game. The goal of every level is to reduce a 3D shape to a single square. Elimination of squares is done by flipping edges around just like in a cardboard box. [[repo]](https://github.com/a-sf-mirror/phlipple)
+* [FreeDroidRPG](http://www.freedroid.org/): FreedroidRPG is an isometric RPG game inspired by Diablo and Fallout. [[repo]](https://github.com/a-sf-mirror/freedroid)
+* [vpinball (no site)](https://github.com/a-sf-mirror/vpinball): vpinball is a pinball game. [[repo]](https://github.com/a-sf-mirror/vpinball)
+* [Scorched3D](http://www.scorched3d.co.uk/): Scorched 3D is a free and open source artillery game modeled after the MS-DOS game Scorched Earth. [[repo]](https://github.com/a-sf-mirror/scorched3d/)
+* [zod (site has not been mirrored yet and is still on SF)](http://zod.sourceforge.net/): The Zod Engine is an open source remake of the 1996 game Z by the Bitmap Brothers written in C++ using the SDL library for Linux / Windows / Etc. [[repo]](https://github.com/a-sf-mirror/zod_engine)
+
 
 **This list is open to expansion**: if you feel a project lacks a maintainership that could push the project elsewhere if sourceforge dies, you can send an email to `<sfmirror AT indigo DOT re>` so we just clone it here, or you can also [clone the project yourself](#how-to-clone-a-project-yourself) easily.
 
