@@ -20,7 +20,7 @@ On the other hand, GitHub is a saner and healthier alternative for hosting these
 * [FreeDroidRPG](http://www.freedroid.org/): FreedroidRPG is an isometric RPG game inspired by Diablo and Fallout. [[repo]](https://github.com/a-sf-mirror/freedroid)
 * [vpinball (no site)](https://github.com/a-sf-mirror/vpinball): vpinball is a pinball game. [[repo]](https://github.com/a-sf-mirror/vpinball)
 * [Scorched3D](http://www.scorched3d.co.uk/): Scorched 3D is a free and open source artillery game modeled after the MS-DOS game Scorched Earth. [[repo]](https://github.com/a-sf-mirror/scorched3d/)
-* [zod (site has not been mirrored yet and is still on SF)](http://zod.sourceforge.net/): The Zod Engine is an open source remake of the 1996 game Z by the Bitmap Brothers written in C++ using the SDL library for Linux / Windows / Etc. [[repo]](https://github.com/a-sf-mirror/zod_engine)
+* [Zod](zod_engine): The Zod Engine is an open source remake of the 1996 game Z by the Bitmap Brothers written in C++ using the SDL library for Linux / Windows / Etc. [[repo]](https://github.com/a-sf-mirror/zod_engine)
 
 
 **This list is open to expansion**: if you feel a project lacks a maintainership that could push the project elsewhere if sourceforge dies, you can send an email to `<sfmirror AT indigo DOT re>` so we just clone it here, or you can also [clone the project yourself](#how-to-clone-a-project-yourself) easily.
