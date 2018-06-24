@@ -21,7 +21,8 @@ On the other hand, GitHub is a saner and healthier alternative for hosting these
 * [vpinball (no site)](https://github.com/a-sf-mirror/vpinball): vpinball is a pinball game. [[repo]](https://github.com/a-sf-mirror/vpinball)
 * [Scorched3D](http://www.scorched3d.co.uk/): Scorched 3D is a free and open source artillery game modeled after the MS-DOS game Scorched Earth. [[repo]](https://github.com/a-sf-mirror/scorched3d/)
 * [Zod](zod_engine): The Zod Engine is an open source remake of the 1996 game Z by the Bitmap Brothers written in C++ using the SDL library for Linux / Windows / Etc. [[repo]](https://github.com/a-sf-mirror/zod_engine)
-
+* [vusb-analyzer](vusb-analyzer): The Virtual USB Analyzer is a free and open source tool for visualizing logs of USB packets, from hardware or software USB sniffer tools. [[repo]](https://github.com/a-sf-mirror/vusb-analyzer)
+* See more [on github](https://github.com/a-sf-mirror?tab=repositories).
 
 **This list is open to expansion**: if you feel a project lacks a maintainership that could push the project elsewhere if sourceforge dies, you can send an email to `<sfmirror AT indigo DOT re>` so we just clone it here, or you can also [clone the project yourself](#how-to-clone-a-project-yourself) easily.
 
